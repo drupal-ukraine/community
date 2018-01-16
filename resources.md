@@ -6,7 +6,8 @@
   - Anatolii Pazhyn (https://www.facebook.com/pazhyn)
   - Andriy Yun (https://www.facebook.com/andriy.yun)
   - Shurik Barkov (https://www.facebook.com/shurik.barkov)
-
+  - Bohdan Artemchuk (https://www.facebook.com/bohartik)
+  
 2. TWITTER (https://twitter.com/drupalua)
   - Viktor Levandovsky (https://www.facebook.com/leviks) - owner
   - Anatolii Poliakov (https://www.facebook.com/anatoliy.polyakov) - editor
