@@ -1,4 +1,5 @@
 1. GITHUB (https://github.com/drupal-ukraine)
+  - ACTUAL LIST: https://github.com/orgs/drupal-ukraine/people?query=role%3Aowner
   - Andrii Podanenko (https://www.facebook.com/podarok)
   - Alex Schedrov (https://www.facebook.com/schedrov)
   - Anatolii Poliakov (https://www.facebook.com/anatoliy.polyakov)
