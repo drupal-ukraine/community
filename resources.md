@@ -12,6 +12,7 @@
   - Anatolii Pazhyn (https://www.facebook.com/pazhyn) - editor
  
 3. FACEBOOK UKRAINE (https://www.facebook.com/groups/drupal.ua)
+  - ACTUAL LIST: https://www.facebook.com/groups/drupal.ua/admins/
   - Anatolii Poliakov (https://www.facebook.com/anatoliy.polyakov)
   - Andriy Yun (https://www.facebook.com/andriy.yun)
   - Anatolii Pazhyn (https://www.facebook.com/pazhyn)
@@ -20,6 +21,7 @@
   - Bohdan Artemchuk (https://www.facebook.com/bohartik)
   
 4. FACEBOOK LUTSK  (https://www.facebook.com/groups/DrupalCafeLutsk)
+  - ACTUAL LIST: https://www.facebook.com/groups/DrupalCafeLutsk/admins/
   - Bohdan Artemchuk (https://www.facebook.com/bohartik)
   - Alexey Gorushkin (https://www.facebook.com/alegor0607)
   - Julia Sheptytska (https://www.facebook.com/julia.sheptytska)
@@ -28,8 +30,9 @@
   - Anatolii Pazhyn (https://www.facebook.com/pazhyn)
   - Andrii Podanenko (https://www.facebook.com/podarok)
   
-5. FACEBOOK KHARKIV (https://www.facebook.com/kh.drupal.community/)
+5. FACEBOOK KHARKIV (https://www.facebook.com/Kharkiv.Drupal.Community)
   - Anatolii Pazhyn (https://www.facebook.com/pazhyn)
+  - Dmytro Olaresko (https://www.facebook.com/dolaresko)
 
 6. FACEBOOK LVIV (https://www.facebook.com/DrupalCafeLviv/)
   - Ira Buta (https://www.facebook.com/byta.ira)
