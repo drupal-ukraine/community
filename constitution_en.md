@@ -11,7 +11,6 @@
 * Main tool inside of a Community is issue. Every issue has a lifetime after it issue lands in a backlog. Lifetime defined in a dedicated document based on Project Management principles. 
 * Community leadership and Operations team should be based on minimum 2+ people assigned to specific role. Community is responsible for controlling amount should not be less than 2 via creating an issue.
 * Viability is a verified ability of community existense during 10 years accordingly to this document statements.
-* Життєздатність - це перевірена можливість існування спільноти протягом 10 років за правилами цього документу.
 * Operations is a team of 2+ people, which has a role of control and management of Community based on this document
 
 ## const Community Mission
