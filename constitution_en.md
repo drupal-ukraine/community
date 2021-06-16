@@ -66,11 +66,11 @@
 
 * Described in external document with ability to be changed if not breaking Constitution 1.0
 
-## public method Ресурси спільноти
+## public method Community resources
 
 * Described in external document with ability to be changed if not breaking Constitution 1.0
 
-## public method Емоційна карта
+## public method Emotional card
 
 * If current document and Community, based on it, feels as a thread to you, rules - described in current document, created and could help you to protect yourself.
 * If current document breaks your principles - Security points, described withinm could help you to settle in your principles, as well as strenghten Community, which lives based in current rules.
