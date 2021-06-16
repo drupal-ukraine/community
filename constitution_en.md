@@ -45,35 +45,35 @@
 * Representative from Community elected every time depending from the contact.
 
 
-## final method Життєдіяльність учасників спільноти
+## final method Viability of community members
 
-* Найважливішою цінністю кожного учасника спільноти є його персональна безпека і життєздатність. 
-* Для унеможливлення помилок цього процесу кожен учасник зобов’язаний організувати собі процес перевірки власних дій (review). 
-* Якщо поза межами спільноти це організувати неможливо - дану функцію на себе може брати сама спільнота або окремі її учасники.
-* Участь у спільноті - добровільна. Вихід із спільноти - теж. За умови, що при виході із спільноти учасник зобов’язується делегувати всі підвладні робочі процеси будь-кому із спільноти.
+* Main value of every community member is personal security and viability
+* For avoiding mistakes in this process every member should organise review process of own actions.
+* If outside of the Community it can't be organised Community can help with providing resources for this.
+* Community membership is free. Cancellation is free too. The only requirement for cancellation is member should delegate all working responsibilities and processes to any active community member. 
 
 
-## public method Зовнішнє лице спільноти - story
+## public method Story as external Community vision
 
-* Головне завдання Operations, як першочергове - написання CV Community. В ньому прописані способи комунікації з спільнотою.
-* Продуктом спільноти є звіт, report. Постійний і запланований потік звітів у всі сфери життя людства.
-* Сфери описані у відповідному зовнішньому документі з правом на зміни в ньому для оптимізації процесів при умові, якщо не протирічать конституції версії 1.0
+* Main role of Operations - creation of Community CV. Communication variants are defined within.
+* Product of Community is a Report. Community is responsible for report creation in all human areas.
+* Areas described in extenral document with ability to be changed for processes optimisation with a condition not breaking Constitution 1.0
 
-## public method Фінанси
+## public method Finances
 
-* Обмін ресурсами між учасниками може забезпечуватись в фінансовому полі. Даний процес регулює державна система, під юрисдикцією якої знаходяться учасники. Роль спільноти в цьому процесі - сприяння і створення екології обміну.
+* Resources exchange between members could happen in a financial environment. This process is regulated and controlled by respective country of member's jurisdiction. Community role is to provide security of exchange.
 
-## public method Інструменти спільноти
+## public method Community tools
 
-* Описані у відповідному дочірньому документі з правом на зміни в ньому для оптимізації процесів при умові, якщо не протирічать конституції версії 1.0
+* Described in external document with ability to be changed if not breaking Constitution 1.0
 
 ## public method Ресурси спільноти
 
-* Описані у відповідному дочірньому документі з правом на зміни в ньому для оптимізації процесів при умові, якщо не протирічать конституції версії 1.0
+* Described in external document with ability to be changed if not breaking Constitution 1.0
 
 ## public method Емоційна карта
 
-* Якщо даний документ і спільнота, яка працює за правилами цього документу виявляється вам загрозливою, то правила, які описані в цьому документі можуть стати вам у нагоді для позбавлення загрози.
-* Якщо даний документ протирічить вашим принципам, то пункти безпеки, які описані в даному документі можуть вам допомогти закріпитись в принципах, а також укріпити спільноту, яка живе за даними правилами.
-* Якщо в даному документі ви бачите помилку безпеки, і знаєте, як зруйнувати спільноту, яка працює за цим документом, то ви зможете побудувати спільноту, яка буде більш життєздатною і з часом поглинути інші, які працюють за правилами цього документу.
-* Якщо даний документ вам подобається, дякуємо за те, що допомагаєте Українській спільноті.
+* If current document and Community, based on it, feels as a thread to you, rules - described in current document, created and could help you to protect yourself.
+* If current document breaks your principles - Security points, described withinm could help you to settle in your principles, as well as strenghten Community, which lives based in current rules.
+* If you found Security issue in this document and you have information that could break Community, which works based on current document, you may build more viable Community that could merge others, which works on current document principles.
+* If you like current document - thank you for helping Ukrainian Community
